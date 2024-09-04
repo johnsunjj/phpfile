@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mono
+{
+	
+	color:#232323;
+	padding: 10px;
+	
+	
+}
+.mono img
+{
+	height: 400px;
+	width: auto;
+}
+.mono span
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+.container
+{
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+
+.edit 
+{
+	margin-left: 50px;
+}
+.edit a
+{
+	margin-left: 10px;
+}
+.description
+{
+	height: 150px;
+}

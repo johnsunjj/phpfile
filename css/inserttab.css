@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+.tab 
+{
+	padding: 20px;
+}
+.tab table
+{
+	margin-top: 20px;
+}
+.tab input
+{
+	margin: 5px;
+}
